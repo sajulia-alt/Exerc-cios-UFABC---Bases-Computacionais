@@ -1,1 +1,1 @@
-# Exerc-cios-UFABC---Bases-Computacionais
+# Exerccios-UFABC-Bases-Computacionais
